@@ -1,4 +1,4 @@
-# Chat App
+# Websocket Chat App
 
 A web based chat application
 
